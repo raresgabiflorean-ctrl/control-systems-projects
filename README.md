@@ -69,7 +69,8 @@ An electromechanical system modeled using Simscape and controlled through a clos
 - Simulink
 - Simscape
 - Control System Toolbox
-
+- System Identification Toolbox
+  
 ---
 
 ## About
@@ -77,5 +78,5 @@ An electromechanical system modeled using Simscape and controlled through a clos
 These projects were developed as part of my preparation and practical work in control systems and automation engineering.
 
 The repository focuses on applying theoretical concepts to simulation and control problems using MATLAB, Simulink and Simscape.
-- System Identification Toolbox
+
 
