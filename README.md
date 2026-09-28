@@ -83,12 +83,11 @@ The repository focuses on applying theoretical concepts to simulation and contro
 
 ```text
 control-systems-projects/
-│
-├── 01-cruise-control/
-├── 02-water-tank-control/
-├── 03-inverted-pendulum-control/
-├── 04-DC-motor-control-using-simscape/
-│
-└── README.md
+
+ -01-cruise-control/
+ -02-water-tank-control/
+ -03-inverted-pendulum-control/
+ -04-DC-motor-control-using-simscape/
+ -README.md
 
 
