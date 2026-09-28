@@ -89,5 +89,6 @@ control-systems-projects/
  -03-inverted-pendulum-control/
  -04-DC-motor-control-using-simscape/
  -README.md
+-.gitignore
 
 
