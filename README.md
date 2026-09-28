@@ -79,4 +79,16 @@ These projects were developed as part of my preparation and practical work in co
 
 The repository focuses on applying theoretical concepts to simulation and control problems using MATLAB, Simulink and Simscape.
 
+## Repository Structure
+
+```text
+control-systems-projects/
+│
+├── 01-cruise-control/
+├── 02-water-tank-control/
+├── 03-inverted-pendulum-control/
+├── 04-DC-motor-control-using-simscape/
+│
+└── README.md
+
 
