@@ -1,0 +1,38 @@
+# MATLAB temporary and backup files
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.mexw64
+*.mexmaci64
+*.mexmaca64
+
+# MATLAB generated files
+*.mat
+*.fig
+*.slxc
+
+# Simulink generated folders and files
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+*_model_rtw/
+*.slxc
+
+# MATLAB code generation / cache
+codegen/
+SimulinkCache/
+SimulinkCodeGen/
+
+# Temporary files and folders
+*.tmp
+*.log
+*.bak
+*.old
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# MATLAB preferences / local settings
+matlab.prf
